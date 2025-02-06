@@ -1,6 +1,8 @@
 <div align="center">
   <h1 align="center">Hi, I'm SarayDevs 👋</h1>
 
+  ![Banner](https://github.com/user-attachments/assets/99d795c0-0dad-4428-9492-ada7e59413fc)
+
 <!--
 **SarayDevs/SarayDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
