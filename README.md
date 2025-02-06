@@ -3,7 +3,7 @@
 
   ![Banner](https://github.com/user-attachments/assets/99d795c0-0dad-4428-9492-ada7e59413fc)
 
-  #About Me:
+  # About Me:
 ⚡ I am an intern at the Corporacion Gimnasio los Almendros, I will get my 6 months of experience at the beginning of April 📅. In this corporation I made a database for the library from scratch. I also made educational software 🏫📚 in a group of 3 using Godot Engine in which I was in charge of a large part of the code and part of the illustrations, including the background of the main menu. I am actively looking for a remote job ⭐ from my city. 📌 I am currently working on a facial recognition and AI assistant software that uses Java as its primary language. After this project, I will make a simple mobile software using Flutter. call me!<br>
 
 # 📍 City:
