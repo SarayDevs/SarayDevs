@@ -13,8 +13,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judith-garces-carrillo-34296a342) 
 <br> Judith Garces Carrillo
 <br>
-<br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Saray2006.outlook@gmail.com)
+<br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Saray2006.outlook@gmail.com)
 <br> Saray2006.outlook@gmail.com
+<br>
+<br> [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarayDevs)
+<br> SarayDevs
+<br>
+<br> [![WhatsApp](https:!!img.shields.io/badge/WhatsApp-%1ee72f.svg?style=for-the-badge%logo=whatsapp&logoColor=white)](https://wa.me/qr/PZ43VVHAP3FHI1)
+<br> 3204383551
 
 
 ## 💻 Tech Stack:
