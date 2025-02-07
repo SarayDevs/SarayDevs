@@ -73,8 +73,8 @@
 
 <br>
 
-# 📄 Mi Hoja de Vida
-Puedes descargar mi hoja de vida [aquí](https://github.com/user-attachments/files/18707715/HDVJudithSarai.pdf).
+# 📄 My CV
+You can download my CV [here](https://github.com/user-attachments/files/18707715/HDVJudithSarai.pdf).
 <br>
 <br>
 ### 📊 GitHub Stats:
