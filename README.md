@@ -59,7 +59,7 @@
 
 <br>
 
-## 📄 Mi Hoja de Vida
+# 📄 Mi Hoja de Vida
 Puedes descargar mi hoja de vida [aquí](https://github.com/user-attachments/files/18707715/HDVJudithSarai.pdf).
 <br>
 <br>
