@@ -6,8 +6,14 @@
   # About Me:
 ⚡ I am an intern at the Corporacion Gimnasio los Almendros, I will get my 6 months of experience at the beginning of April 📅. In this corporation I made a database for the library from scratch. I also made educational software 🏫📚 in a group of 3 using Godot Engine in which I was in charge of a large part of the code and part of the illustrations, including the background of the main menu. I am actively looking for a remote job ⭐ from my city, Cúcuta. 📌 I am currently working on a facial recognition and AI assistant software that uses Java as its primary language. After this project, I will make a simple mobile software using Flutter. call me!<br>
 
+
+
+# 📄 My CV
+You can download my CV [here](https://github.com/user-attachments/files/18707715/HDVJudithSarai.pdf).
+<br>
 # 📍 City:
 <p>Colombia, Norte de Santander, Cúcuta. I´m looking for a work from home.</p>
+<br>
 
 ### 📫 Contacto  
 <br>
@@ -71,12 +77,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+
+
 <br>
 
-# 📄 My CV
-You can download my CV [here](https://github.com/user-attachments/files/18707715/HDVJudithSarai.pdf).
-<br>
-<br>
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SarayDevs&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SarayDevs&theme=merko&hide_border=true)<br/>
