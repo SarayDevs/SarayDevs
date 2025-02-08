@@ -21,17 +21,17 @@ You can download my CV [here](https://github.com/user-attachments/files/18707715
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>  
 <p> Judith Garces Carrillo </p>
-<br>
+
 <a href="mailto:saray2006.outlook@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>  
 <p>Saray2006.outlook@gmail.com</p>
-<br>
+
 <a href="https://github.com/SarayDevs" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <p>SarayDevs</p>
-<br>
+
 <a href="https://wa.me/qr/PZ43VVHAP3FHI1" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
@@ -49,7 +49,6 @@ You can download my CV [here](https://github.com/user-attachments/files/18707715
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<br>
 
 ### 🎨 Web Development & Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,25 +57,72 @@ You can download my CV [here](https://github.com/user-attachments/files/18707715
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-<br>
-
 ### 🗄️ Databases & Servers
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-<br>
+
 
 ### 🎮 Game Development
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
-<br>
 
 ### 🔧 Tools & Software
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+<br>
+
+## 🚀 Interesting Projects I Made
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Data base library GLA</h3>
+        <img src="URL_DE_LA_IMAGEN_1" width="300px" alt="DBLibraryGLA">
+        <br>
+        <a href="https://github.com/SarayDevs/DBLibraryGLA">
+          <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
+        </a>
+        <p>This is a library management project that I made for a school. It uses PHP as the main programming language</p>
+      </td>
+      <td align="center">
+        <h3>EduGame Godot 4.1</h3>
+        <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Edugame Godot 4.1">
+        <br>
+        <a href="URL_DEL_REPOSITORIO_2">
+          <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
+        </a>
+        <p>It's a educational software that it want to be fun for students to learning fractions. It uses GDscript as the main programming language and Aseprite as main design</p>
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        <h3>facial recognition and AI assistant software</h3>
+        <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Passwords Manager">
+        <br>
+        <a href="URL_DEL_REPOSITORIO_2">
+          <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
+        </a>
+        <p>Project in develop, be here coming soon... It will uses Java as the main programming language</p>
+     </td>
+    <td align="center">
+        <h3>Mobile app mangment of money by Flutter</h3>
+        <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Passwords Manager">
+        <br>
+        <a href="URL_DEL_REPOSITORIO_2">
+          <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
+        </a>
+        <p>Project in develop, be here coming soon... It will uses Dart as the main programming language</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 
 <br>
