@@ -9,7 +9,7 @@
 
 
 # 📄 My CV
-You can download my CV [here](https://github.com/user-attachments/files/18707715/HDVJudithSarai.pdf).
+You can download my CV [here](https://github.com/user-attachments/files/18971605/HojaVidaJudithSaraiADSO.1.pdf)
 <br>
 # 📍 City:
 <p>Colombia, Norte de Santander, Cúcuta. I´m looking for a work from home.</p>
