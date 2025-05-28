@@ -9,7 +9,7 @@
 
 
 # 📄 My CV
-You can download my CV [here](https://github.com/user-attachments/files/18971605/HojaVidaJudithSaraiADSO.1.pdf)
+You can download my CV [here](https://github.com/user-attachments/files/20495241/Copia.de.HojaVidaJudithSaraiADSO.1.pdf)
 <br>
 # 📍 City:
 <p>Colombia, Norte de Santander, Cúcuta. I´m looking for a work from home.</p>
@@ -83,7 +83,7 @@ You can download my CV [here](https://github.com/user-attachments/files/18971605
     <tr>
       <td align="center">
         <h3>Data base library GLA</h3>
-        <img src="URL_DE_LA_IMAGEN_1" width="300px" alt="DBLibraryGLA">
+        <img src="https://github.com/user-attachments/assets/7e2a05bd-7beb-4a82-8333-b82df14b7c8b" width="300px" alt="DBLibraryGLA">
         <br>
         <a href="https://github.com/SarayDevs/DBLibraryGLA">
           <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
@@ -92,9 +92,9 @@ You can download my CV [here](https://github.com/user-attachments/files/18971605
       </td>
       <td align="center">
         <h3>EduGame Godot 4.1</h3>
-        <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Edugame Godot 4.1">
+        <img src="https://github.com/user-attachments/assets/40e22ab3-060d-4287-9b31-53abc9f919df" width="300px" alt="Edugame Godot 4.1">
         <br>
-        <a href="URL_DEL_REPOSITORIO_2">
+        <a href="https://github.com/SarayDevs/EduGame">
           <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
         </a>
         <p>It's a educational software that it want to be fun for students to learning fractions. It uses GDscript as the main programming language and Aseprite as main design</p>
