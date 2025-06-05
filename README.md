@@ -4,7 +4,7 @@
   ![Banner](https://github.com/user-attachments/assets/99d795c0-0dad-4428-9492-ada7e59413fc)
 
   # About Me:
-⚡ I am an intern at the Corporacion Gimnasio los Almendros, I completed my internship in April. 📅. In this corporation I made a database for the library from scratch. I also made educational software 🏫📚 in a group of 3 using Godot Engine in which I was in charge of a large part of the code and part of the illustrations, including the background of the main menu. I am actively looking for a remote job ⭐ from my city, Cúcuta. 📌 I am currently working on a facial recognition and AI assistant software that uses Java as its primary language. After this project, I will make a simple mobile software using Flutter. call me!<br>
+⚡ I was an intern at the Corporacion Gimnasio los Almendros, I completed my internship in April. 📅. In this corporation I made a database for the library from scratch. I also made educational software 🏫📚 in a group of 3 using Godot Engine in which I was in charge of a large part of the code and part of the illustrations, including the background of the main menu. I am actively looking for a remote job ⭐ from my city, Cúcuta. 📌 I am currently working on a facial recognition and AI assistant software that uses Java as its primary language. After this project, I will make a simple mobile software using Flutter. call me!<br>
 
 
 
@@ -100,8 +100,17 @@ You can download my CV [here](https://github.com/user-attachments/files/20495241
         <p>It's a educational software that it want to be fun for students to learning fractions. It uses GDscript as the main programming language and Aseprite as main design</p>
       </td>
     </tr>
-    <tr>
+     <tr>
      <td align="center">
+        <h3>Courses Platform .NET Core</h3>
+        <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Passwords Manager">
+        <br>
+        <a href="https://github.com/SarayDevs/Courses-Platform">
+          <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
+        </a>
+        <p>Project in develop, be here coming soon... It will uses .Net Core, Rest API and microservices, with Azure and Angular as frontend</p>
+     </td>
+       <td align="center">
         <h3>facial recognition and AI assistant software</h3>
         <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Passwords Manager">
         <br>
@@ -110,6 +119,8 @@ You can download my CV [here](https://github.com/user-attachments/files/20495241
         </a>
         <p>Project in develop, be here coming soon... It will uses Java as the main programming language</p>
      </td>
+     </tr>
+    <tr>
     <td align="center">
         <h3>Mobile app mangment of money by Flutter</h3>
         <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Passwords Manager">
@@ -119,6 +130,15 @@ You can download my CV [here](https://github.com/user-attachments/files/20495241
         </a>
         <p>Project in develop, be here coming soon... It will uses Dart as the main programming language</p>
       </td>
+      <td align="center">
+        <h3>...</h3>
+        <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Passwords Manager">
+        <br>
+        <a href="URL_DEL_REPOSITORIO_2">
+          <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
+        </a>
+        <p>Coming Soon</p>
+     </td>
     </tr>
   </table>
 
