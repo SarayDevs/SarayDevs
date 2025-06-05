@@ -103,7 +103,7 @@ You can download my CV [here](https://github.com/user-attachments/files/20495241
      <tr>
      <td align="center">
         <h3>Courses Platform .NET Core</h3>
-        <img src="URL_DE_LA_IMAGEN_2" width="300px" alt="Passwords Manager">
+        <img src="https://github.com/user-attachments/assets/e3180a6c-f10a-45d2-9909-cd8d20c35cb3" width="300px" alt="Passwords Manager">
         <br>
         <a href="https://github.com/SarayDevs/Courses-Platform">
           <img src="https://img.shields.io/badge/CODE-%F0%9F%9A%80-yellow?style=for-the-badge&logo=github">
