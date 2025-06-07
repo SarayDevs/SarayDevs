@@ -4,12 +4,12 @@
   ![Banner](https://github.com/user-attachments/assets/99d795c0-0dad-4428-9492-ada7e59413fc)
 
   # About Me:
-⚡ I was an intern at the Corporacion Gimnasio los Almendros, I completed my internship in April. 📅. In this corporation I made a database for the library from scratch. I also made educational software 🏫📚 in a group of 3 using Godot Engine in which I was in charge of a large part of the code and part of the illustrations, including the background of the main menu. I am actively looking for a remote job ⭐ from my city, Cúcuta. 📌 I am currently working on a facial recognition and AI assistant software that uses Java as its primary language. After this project, I will make a simple mobile software using Flutter. call me!<br>
+🚀 I completed my internship at Corporación Gimnasio Los Almendros in April, where I developed a library database from scratch. I also participated in the development of educational software using Godot Engine, contributing significantly to the code and creating part of the illustrations, including the main menu background. Currently, I’m building a full web application using .NET 8, MySQL, and Angular, focused on user authentication, course management, and payments. I'm actively looking for a remote position from my hometown, Cúcuta. I occasionally explore projects with Java, AI tools, and plan to experiment with Flutter for mobile development. Let’s connect! 🌐 call me!<br>
 
 
 
 # 📄 My CV
-You can download my CV [here](https://github.com/user-attachments/files/20495241/Copia.de.HojaVidaJudithSaraiADSO.1.pdf)
+You can download my CV [here](https://github.com/user-attachments/files/20640339/HojaVidaJudithSaraiADSO.1.pdf)
 <br>
 # 📍 City:
 <p>Colombia, Norte de Santander, Cúcuta. I´m looking for a work from home.</p>
